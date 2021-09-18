@@ -2,6 +2,8 @@
 
 [![Gitpod Ready-to-Code](https://img.shields.io/badge/Pandas-Python%20Data%20Analysis%20Library-yellow)](https://gitpod.io/#https://https://github.com/danielwisouza/AdventureWorks_Analise_Dados.py) 
 
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Google%20-Colab-blue)](https://gitpod.io/#https://https://github.com/danielwisouza/AdventureWorks_Analise_Dados.py) 
+
 ## Pacotes Necessários:
 
 - import pandas as pd 
