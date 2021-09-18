@@ -14,6 +14,6 @@ Projeto criado com intuído de testar conhecimento durando o Bootcamp 
 ### 2.0	Tecnologias utilizadas
 Para o desenvolvimento desta aplicação foram utilizadas as tecnologias.
 
-• Python
-• Pandas
-• Ambiente em Cloud da Google Colab; https://colab.research.google.com/notebooks/welcome.ipynb?hl=pt-BR
+- Python
+- Pandas
+- Ambiente em Cloud da Google Colab: https://colab.research.google.com/notebooks/welcome.ipynb?hl=pt-BR
