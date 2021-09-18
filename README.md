@@ -1,8 +1,8 @@
 # Análise e manipulação de dados com Python e Pandas utilizando a base de dados AdventureWorks
 
-[![Gitpod Ready-to-Code](https://img.shields.io/badge/Pandas-Python%20Data%20Analysis%20Library-yellow)]
+![Gitpod Ready-to-Code](https://img.shields.io/badge/Pandas-Python%20Data%20Analysis%20Library-yellow)
 
-[![Gitpod Ready-to-Code](https://img.shields.io/badge/Google%20-Colab-blue)]
+![Gitpod Ready-to-Code](https://img.shields.io/badge/Google%20-Colab-blue)
 
 ## Pacotes Necessários:
 
