@@ -1,24 +1,27 @@
-# Análise e manipulação de dados com Python e Pandas utilizando a base de dados AdventureWorks
+# AdventureWorks Data Analysis
 
-![Gitpod Ready-to-Code](https://img.shields.io/badge/Pandas-Python%20Data%20Analysis%20Library-yellow)
+![Pandas](https://img.shields.io/badge/Pandas-Python%20Data%20Analysis%20Library-yellow)
+![Google Colab](https://img.shields.io/badge/Google%20-Colab-blue)
 
-![Gitpod Ready-to-Code](https://img.shields.io/badge/Google%20-Colab-blue)
+## Project Overview
 
-## Pacotes Necessários:
+This project focuses on data analysis and manipulation using Python and Pandas with the AdventureWorks database.
 
-- import pandas as pd 
-- import numpy as np
+## Required Packages
 
-### DataSet
-- Link: https://docs.microsoft.com/pt-br/sql/samples/
+- pandas
+- numpy
 
-### 1. INTRODUÇÃO
- 
-Projeto criado com intuído de testar conhecimento durando o Bootcamp Banco Carrefour Data Engineer.
+## Dataset
 
-### 2.0	Tecnologias utilizadas
-Para o desenvolvimento desta aplicação foram utilizadas as tecnologias.
+- [AdventureWorks Database](https://docs.microsoft.com/pt-br/sql/samples/)
+
+## Introduction
+
+This project was created to practice and test knowledge during the Carrefour Data Engineer Bootcamp.
+
+## Technologies Used
 
 - Python
 - Pandas
-- Ambiente em Cloud da Google Colab: https://colab.research.google.com/notebooks/welcome.ipynb?hl=pt-BR
+- Google Colab: [Link to Google Colab](https://colab.research.google.com/notebooks/welcome.ipynb?hl=pt-BR)
